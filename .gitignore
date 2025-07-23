@@ -1,0 +1,44 @@
+# Node modules (both frontend and backend)
+node_modules/
+nextgenwork-frontend/node_modules/
+nextgenwork-backend/node_modules/
+
+# Build output
+nextgenwork-frontend/build/
+nextgenwork-frontend/dist/
+nextgenwork-backend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+nextgenwork-backend/.env
+nextgenwork-backend/.env.local
+nextgenwork-frontend/.env
+nextgenwork-frontend/.env.local
+
+# Uploaded files (user uploads, images, resumes, etc.)
+nextgenwork-backend/public/logos/
+nextgenwork-backend/public/pics/
+nextgenwork-backend/public/resumes/
+nextgenwork-backend/uploads/
+nextgenwork-backend/public/other/
+
+# VSCode settings (optional)
+.vscode/
+
+# Coverage reports
+coverage/
+nextgenwork-frontend/coverage/
+nextgenwork-backend/coverage/
+
+# Misc
+*.swp
+*.swo 
