@@ -108,14 +108,14 @@ NextGenWork/
 
 ## 🖼️ Screenshots
 
-### Home Page
-![Home Page](./screenshots/home.png)
+### Opportunities Hub
+![Opportunities Hub](./nextgenwork-frontend/screenshots/opportunitylisting.png)
 
 ### Learning Hub
-![Learning Hub](./screenshots/learning-hub.png)
+![Learning Hub](./nextgenwork-frontend/screenshots/resourcelisting.png)
 
-### Profile (Mobile)
-![Profile Mobile](./screenshots/profile-mobile.png)
+### UserProfile
+![User Profile](./nextgenwork-frontend/screenshots/profile.png)
 
 ---
 
